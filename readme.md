@@ -2,6 +2,8 @@
 
 > Complete E-commerce site built with Node.js, React, Redux, Express, MongoDB
 
+![shopit](https://user-images.githubusercontent.com/68854259/208176355-86b1c431-4576-4d88-8045-464d5e063662.png)
+
 
 ## Run Locally
 
