@@ -2,26 +2,31 @@
 
 > Complete E-commerce site built with Node.js, React, Redux, Express, MongoDB
 
-More about this project and course on Udemy. Course Name: [MERN Stack Full Ecommerce Site - Using React, Redux, Node.j](https://www.udemy.com/course/3678044)
 
-### Env Variables
+## Run Locally
+
+### 1. Clone Repo
+
+### 2. Set up MongoDB
+
+### 3. Env Variables
 
 Add your config variables values in the config.env file in backend/config folder as shown in the course.
 
-### Install Dependencies (Frontend)
+### 4. Install Dependencies (Frontend)
 
 ```
 cd frontend
 npm i
 ```
 
-### Install Dependencies (Backend)
+### 5. Install Dependencies (Backend)
 
 ```
 npm i
 ```
 
-### Seed Database
+### 6. Seed Database
 
 Use the following commeand to put some dummy products in that database.
 Run it in the root folder.
